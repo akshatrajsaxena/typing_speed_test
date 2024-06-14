@@ -1,0 +1,60 @@
+.speed-typing-game {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    background: linear-gradient(135deg, #f06, #ff9a9e);
+    color: #fff;
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 600px;
+    margin: 2rem auto;
+  }
+  
+  .paragraph-to-type {
+    font-size: 1.2rem;
+    background: rgba(255, 255, 255, 0.2);
+    padding: 1rem;
+    border-radius: 8px;
+    margin-bottom: 1.5rem;
+  }
+  
+  .typing-area {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .typing-area textarea {
+    width: 100%;
+    max-width: 500px;
+    padding: 0.5rem;
+    font-size: 1rem;
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 1rem;
+  }
+  
+  .typing-area .stats {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 500px;
+    margin-bottom: 1rem;
+  }
+  
+  .typing-area button {
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    color: #fff;
+    background-color: #ff6b6b;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .typing-area button:hover {
+    background-color: #ff4757;
+  }
+  
