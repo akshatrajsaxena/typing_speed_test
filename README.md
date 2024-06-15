@@ -2,69 +2,80 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+# Typing Speed Test
 
-In the project directory, you can run:
+Welcome to my Typing Speed Test website! This project is designed to measure and improve your typing speed. Below you will find detailed information about the technologies used, file structure, responsiveness, and how to access the website.
 
-### `npm start`
+## Why I Use React Framework
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+I chose React for this project due to its component-based architecture, which allows for reusable and maintainable code. React's virtual DOM ensures efficient updates and rendering, leading to a smoother user experience. Additionally, React's rich ecosystem and community support make it an excellent choice for building modern web applications.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Is the Website Responsive?
 
-### `npm test`
+YES, the website is responsive. It adapts to different viewports, ensuring a consistent experience across various devices.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+The project is organized into several components and directories for better maintainability:
 
-### `npm run build`
+less
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+src/components: Contains all React components, such as SpeedTypingGame and TypingArea.
+src/styles: Includes CSS modules for styling components.
+public: Public assets and the main HTML file.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Main Components
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+less
 
-### `npm run eject`
+    App.js: The root component that includes the main layout.
+    SpeedTypingGame.js: Manages game state and logic, including paragraph generation and user input.
+    TypingArea.js: Renders typing area and stats, tracks time, mistakes, and provides a reset button.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## How to Access the Website
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Currently, I haven't hosted my website anywhere as it is in development. But in the future, I will surely host it and will update the things on this repo.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Clone the Repository
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+bash
+```
+git clone https://github.com/akshatrajsaxena/typing-speed-test.git
+cd typing-speed-test
+```
+Install Dependencies
 
-## Learn More
+bash
+```
+npm install
+```
+Run the Development Server
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+bash
+```
+npm start
+```
+Open http://localhost:3000 in your browser to view the website.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## What is the Purpose of This Website?
 
-### Code Splitting
+The purpose of this website is to help users measure and improve their typing speed. It serves as a fun and interactive tool for practice and improvement.
+How is the Website Styled?
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+The website uses CSS modules for styling, ensuring scoped and maintainable CSS. Additionally, it utilizes CSS Flexbox and Grid for layout management, ensuring a responsive design.
+How to Contribute?
 
-### Analyzing the Bundle Size
+If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request. Contributions are welcome!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Contact
 
-### Making a Progressive Web App
+If you have any questions or would like to get in touch, you can reach me at mailto:akshat22054@iiitd.ac.in
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+#React + Vite
 
-### Advanced Configuration
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Currently, two official plugins are available:
 
-### Deployment
+    @vitejs/plugin-react uses Babel for Fast Refresh
+    @vitejs/plugin-react-swc uses SWC for Fast Refresh
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Welcome to my Typing Speed Test code, the build of the code is done mainly in Javascript using React Framework.
