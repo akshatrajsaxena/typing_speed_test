@@ -71,9 +71,9 @@ If you have any questions or would like to get in touch, you can reach me at mai
 
 #React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+![image](https://github.com/akshatrajsaxena/typing_speed_test/assets/119042958/d3807fdc-8ed2-448f-af68-ef7f477e97cd)
+
 
     @vitejs/plugin-react uses Babel for Fast Refresh
     @vitejs/plugin-react-swc uses SWC for Fast Refresh
