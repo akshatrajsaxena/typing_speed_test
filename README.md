@@ -69,7 +69,6 @@ If you find any issues or have suggestions for improvements, feel free to open a
 
 If you have any questions or would like to get in touch, you can reach me at mailto:akshat22054@iiitd.ac.in
 
-#React + Vite
 
 
 ![image](https://github.com/akshatrajsaxena/typing_speed_test/assets/119042958/d3807fdc-8ed2-448f-af68-ef7f477e97cd)
