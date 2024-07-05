@@ -22,7 +22,7 @@ src/components: Contains all React components, such as SpeedTypingGame and Typin
 src/styles: Includes CSS modules for styling components.
 public: Public assets and the main HTML file.
 
-Main Components
+Main Components: 
 
 less
 
