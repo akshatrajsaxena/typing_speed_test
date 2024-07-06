@@ -14,7 +14,7 @@ I chose React for this project due to its component-based architecture, which al
 
 YES, the website is responsive. It adapts to different viewports, ensuring a consistent experience across various devices.
 
-The project is organized into several components and directories for better maintainability:
+The project is organized into several components and directories for better maintainability, Here are these:
 
 less
 
