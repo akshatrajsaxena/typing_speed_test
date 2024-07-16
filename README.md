@@ -1,7 +1,3 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 # Typing Speed Test
 
 Welcome to my Typing Speed Test website! This project is designed to measure and improve your typing speed. Below you will find detailed information about the technologies used, file structure, responsiveness, and how to access the website.
@@ -80,3 +76,7 @@ If you have any questions or would like to get in touch, you can reach me at mai
 ## LICENSE
 
 [MIT License](https://github.com/akshatrajsaxena/typing_speed_test/blob/master/LICENSE)
+
+# Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
