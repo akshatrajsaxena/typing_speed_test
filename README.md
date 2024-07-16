@@ -1,3 +1,15 @@
+<h1 align="center">Typing Speed Test</h1>
+<p align="center"><i>Made a Basic Typing Speed Test Using Js</i></p>
+<div align="center">
+  <a href="https://github.com/akshatrajsaxena/typing_speed_test/stargazers"><img src="https://img.shields.io/github/stars/akshatrajsaxena/typing_speed_test" alt="Stars Badge"/></a>
+  <a href="https://github.com/akshatrajsaxena/typing_speed_test/network/members"><img src="https://img.shields.io/github/forks/akshatrajsaxena/typing_speed_test" alt="Forks Badge"/></a>
+  <a href="https://github.com/akshatrajsaxena/typing_speed_test/pulls"><img src="https://img.shields.io/github/issues-pr/akshatrajsaxena/typing_speed_test" alt="Pull Requests Badge"/></a>
+  <a href="https://github.com/akshatrajsaxena/typing_speed_test/issues"><img src="https://img.shields.io/github/issues/akshatrajsaxena/typing_speed_test" alt="Issues Badge"/></a>
+  <a href="https://github.com/akshatrajsaxena/typing_speed_test/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/akshatrajsaxena/typing_speed_test" ?color=2b9348"></a>
+  <a href="https://github.com/akshatrajsaxena/typing_speed_test/blob/master/LICENSE"><img src="https://img.shields.io/github/license/akshatrajsaxena/typing_speed_test ?color=2b9348" alt="License Badge"/></a>
+</div>
+<br>
+
 # Typing Speed Test
 
 Welcome to my Typing Speed Test website! This project is designed to measure and improve your typing speed. Below you will find detailed information about the technologies used, file structure, responsiveness, and how to access the website.
