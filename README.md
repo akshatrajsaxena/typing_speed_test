@@ -34,9 +34,9 @@ Main Components:
 
 less
 
-    App.js: The root component that includes the main layout.
-    SpeedTypingGame.js: Manages game state and logic, including paragraph generation and user input.
-    TypingArea.js: Renders typing area and stats, tracks time, mistakes, and provides a reset button.
+App.js: The root component that includes the main layout.
+SpeedTypingGame.js: Manages game state and logic, including paragraph generation and user input.
+TypingArea.js: Renders typing area and stats, tracks time, mistakes, and provides a reset button.
 
 ## How to Access the Website
 
